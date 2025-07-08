@@ -46,6 +46,7 @@ I architect **secure, scalable, and stunning web/mobile apps** using the MERN st
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code) 
+
 ---
 
 ## 🧠 **Currently Exploring**
