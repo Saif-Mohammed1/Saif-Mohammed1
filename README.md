@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Saif Ur Rehman
+# 👨‍💻 Hi, I'm Saif 
 
 **`MERN Stack Developer | Security-Focused Full-Stack Engineer`**
 
@@ -31,14 +31,21 @@ I architect **secure, scalable, and stunning web/mobile apps** using the MERN st
 ## 🛠️ **Security-First Tech Stack**
 
 **Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)  ![Express](https://img.shields.io/badge/Express-000000?logo=express)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)  
 
-**Security & Tools:**  
-![JWT](https://img.shields.io/badge/JWT-Auth-black) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis) ![OWASP](https://img.shields.io/badge/OWASP_Top_10-orange) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![Zod](https://img.shields.io/badge/Zod-Validation-blue)
 
+**Security & Authentication:**  
+![JWT](https://img.shields.io/badge/JWT-Auth-black) ![OWASP](https://img.shields.io/badge/OWASP_Top_10-orange) ![Zod](https://img.shields.io/badge/Zod-Validation-blue)  
+![Device Fingerprinting](https://img.shields.io/badge/Device_Tracking-blueviolet) ![Rate Limiting](https://img.shields.io/badge/Rate_Limit-Protected-critical) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis) 
+
+**Testing & Quality:**  
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest)  ![Validator.js](https://img.shields.io/badge/Validator.js-Validator-ffcc00)
+
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code) 
 ---
 
 ## 🧠 **Currently Exploring**
